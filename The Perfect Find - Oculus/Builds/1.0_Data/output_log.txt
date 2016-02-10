@@ -1,0 +1,430 @@
+Initialize engine version: 5.2.1f1 (44735ea161b3)
+[VRDevice] Successfully created device oculus.
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce GTX 765M (ID=0x11e2)
+    Vendor:   NVIDIA
+    VRAM:     1985 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: F:\GitHub\A-Perfect-Find\The Perfect Find - Oculus\Builds\1.0_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading F:\GitHub\A-Perfect-Find\The Perfect Find - Oculus\Builds\1.0_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: F:\GitHub\A-Perfect-Find\The Perfect Find - Oculus\Builds\1.0_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading F:\GitHub\A-Perfect-Find\The Perfect Find - Oculus\Builds\1.0_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: F:\GitHub\A-Perfect-Find\The Perfect Find - Oculus\Builds\1.0_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading F:\GitHub\A-Perfect-Find\The Perfect Find - Oculus\Builds\1.0_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: F:\GitHub\A-Perfect-Find\The Perfect Find - Oculus\Builds\1.0_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading F:\GitHub\A-Perfect-Find\The Perfect Find - Oculus\Builds\1.0_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: F:\GitHub\A-Perfect-Find\The Perfect Find - Oculus\Builds\1.0_Data\Managed\System.Core.dll (this message is harmless)
+- Completed reload, in  0.148 seconds
+desktop: 1600x900 60Hz; virtual: 1600x900 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+Platform assembly: F:\GitHub\A-Perfect-Find\The Perfect Find - Oculus\Builds\1.0_Data\Managed\System.dll (this message is harmless)
+02/10/16 06:29:02: [CAPI] LibOVR module is located at C:\WINDOWS\SYSTEM32\LibOVRRT32_0_7.dll
+
+ 
+(Filename:  Line: 46)
+
+Unity v5.2.1f1, Oculus Utilities v0.1.0, OVRPlugin v0.1.2.0.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+Creating volume controller...
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+Setting up 2 worker threads for Enlighten.
+  Thread -> id: 1e90 -> priority: 1 
+  Thread -> id: 2a24 -> priority: 1 
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 5.870401 ms
+Unity v5.2.1f1, Oculus Utilities v0.1.0, OVRPlugin v0.1.2.0.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+
+Unloading 23 unused Assets to reduce memory usage. Loaded Objects now: 493.
+Total: 1.106339 ms (FindLiveObjects: 0.088951 ms CreateObjectMapping: 0.056877 ms MarkObjects: 0.860866 ms  DeleteObjects: 0.098360 ms)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 7.196555 ms
+Unity v5.2.1f1, Oculus Utilities v0.1.0, OVRPlugin v0.1.2.0.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+
+Unloading 53 unused Assets to reduce memory usage. Loaded Objects now: 665.
+Total: 0.969490 ms (FindLiveObjects: 0.101781 ms CreateObjectMapping: 0.059016 ms MarkObjects: 0.707339 ms  DeleteObjects: 0.099643 ms)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.640051 ms
+Unity v5.2.1f1, Oculus Utilities v0.1.0, OVRPlugin v0.1.2.0.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+
+Unloading 18 unused Assets to reduce memory usage. Loaded Objects now: 782.
+Total: 1.295790 ms (FindLiveObjects: 0.110762 ms CreateObjectMapping: 0.083392 ms MarkObjects: 1.005841 ms  DeleteObjects: 0.093656 ms)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 2.205409 ms
+Unity v5.2.1f1, Oculus Utilities v0.1.0, OVRPlugin v0.1.2.0.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 782.
+Total: 1.250459 ms (FindLiveObjects: 0.107768 ms CreateObjectMapping: 0.082537 ms MarkObjects: 1.032355 ms  DeleteObjects: 0.026086 ms)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 3.364351 ms
+Unity v5.2.1f1, Oculus Utilities v0.1.0, OVRPlugin v0.1.2.0.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+
+Unloading 95 unused Assets to reduce memory usage. Loaded Objects now: 668.
+Total: 0.910902 ms (FindLiveObjects: 0.098787 ms CreateObjectMapping: 0.087241 ms MarkObjects: 0.617104 ms  DeleteObjects: 0.106058 ms)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.682817 ms
+Unity v5.2.1f1, Oculus Utilities v0.1.0, OVRPlugin v0.1.2.0.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+
+Unloading 19 unused Assets to reduce memory usage. Loaded Objects now: 1194.
+Total: 1.423658 ms (FindLiveObjects: 0.150106 ms CreateObjectMapping: 0.082964 ms MarkObjects: 1.098642 ms  DeleteObjects: 0.090234 ms)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 5.104901 ms
+Unity v5.2.1f1, Oculus Utilities v0.1.0, OVRPlugin v0.1.2.0.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+
+Unloading 156 unused Assets to reduce memory usage. Loaded Objects now: 671.
+Total: 1.020809 ms (FindLiveObjects: 0.125302 ms CreateObjectMapping: 0.094939 ms MarkObjects: 0.647039 ms  DeleteObjects: 0.152244 ms)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.634492 ms
+Unity v5.2.1f1, Oculus Utilities v0.1.0, OVRPlugin v0.1.2.0.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+
+Unloading 19 unused Assets to reduce memory usage. Loaded Objects now: 846.
+Total: 1.213253 ms (FindLiveObjects: 0.095366 ms CreateObjectMapping: 0.082109 ms MarkObjects: 0.949818 ms  DeleteObjects: 0.085103 ms)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 4.361211 ms
+Unity v5.2.1f1, Oculus Utilities v0.1.0, OVRPlugin v0.1.2.0.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+
+Unloading 134 unused Assets to reduce memory usage. Loaded Objects now: 674.
+Total: 1.035777 ms (FindLiveObjects: 0.097932 ms CreateObjectMapping: 0.090662 ms MarkObjects: 0.705628 ms  DeleteObjects: 0.139842 ms)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.819238 ms
+Unity v5.2.1f1, Oculus Utilities v0.1.0, OVRPlugin v0.1.2.0.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+
+Unloading 20 unused Assets to reduce memory usage. Loaded Objects now: 1200.
+Total: 1.479253 ms (FindLiveObjects: 0.157376 ms CreateObjectMapping: 0.085103 ms MarkObjects: 1.143973 ms  DeleteObjects: 0.090662 ms)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 4.627212 ms
+Unity v5.2.1f1, Oculus Utilities v0.1.0, OVRPlugin v0.1.2.0.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+
+Unloading 156 unused Assets to reduce memory usage. Loaded Objects now: 677.
+Total: 1.173053 ms (FindLiveObjects: 0.121453 ms CreateObjectMapping: 0.096649 ms MarkObjects: 0.816390 ms  DeleteObjects: 0.137276 ms)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.585739 ms
+Unity v5.2.1f1, Oculus Utilities v0.1.0, OVRPlugin v0.1.2.0.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+
+Unloading 21 unused Assets to reduce memory usage. Loaded Objects now: 508.
+Total: 1.259439 ms (FindLiveObjects: 0.089379 ms CreateObjectMapping: 0.059016 ms MarkObjects: 1.017387 ms  DeleteObjects: 0.091517 ms)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 2.741259 ms
+Unity v5.2.1f1, Oculus Utilities v0.1.0, OVRPlugin v0.1.2.0.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+
+Unloading 83 unused Assets to reduce memory usage. Loaded Objects now: 680.
+Total: 0.981037 ms (FindLiveObjects: 0.098360 ms CreateObjectMapping: 0.087668 ms MarkObjects: 0.688094 ms  DeleteObjects: 0.105630 ms)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.643472 ms
+Unity v5.2.1f1, Oculus Utilities v0.1.0, OVRPlugin v0.1.2.0.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+
+Unloading 22 unused Assets to reduce memory usage. Loaded Objects now: 543.
+Total: 1.272269 ms (FindLiveObjects: 0.080826 ms CreateObjectMapping: 0.058588 ms MarkObjects: 1.040481 ms  DeleteObjects: 0.090662 ms)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 2.787018 ms
+Unity v5.2.1f1, Oculus Utilities v0.1.0, OVRPlugin v0.1.2.0.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+
+Unloading 93 unused Assets to reduce memory usage. Loaded Objects now: 683.
+Total: 1.179041 ms (FindLiveObjects: 0.116321 ms CreateObjectMapping: 0.088096 ms MarkObjects: 0.851030 ms  DeleteObjects: 0.122308 ms)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.465996 ms
+Unity v5.2.1f1, Oculus Utilities v0.1.0, OVRPlugin v0.1.2.0.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+
+Unloading 23 unused Assets to reduce memory usage. Loaded Objects now: 4547.
+Total: 2.854160 ms (FindLiveObjects: 0.555522 ms CreateObjectMapping: 0.309193 ms MarkObjects: 1.868846 ms  DeleteObjects: 0.118887 ms)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 11.187846 ms
+Unity v5.2.1f1, Oculus Utilities v0.1.0, OVRPlugin v0.1.2.0.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+
+Unloading 275 unused Assets to reduce memory usage. Loaded Objects now: 686.
+Total: 1.328719 ms (FindLiveObjects: 0.171061 ms CreateObjectMapping: 0.130006 ms MarkObjects: 0.812541 ms  DeleteObjects: 0.212971 ms)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.576758 ms
+Unity v5.2.1f1, Oculus Utilities v0.1.0, OVRPlugin v0.1.2.0.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+
+Unloading 23 unused Assets to reduce memory usage. Loaded Objects now: 4550.
+Total: 2.704481 ms (FindLiveObjects: 0.545258 ms CreateObjectMapping: 0.241624 ms MarkObjects: 1.816672 ms  DeleteObjects: 0.098787 ms)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 10.566464 ms
+Unity v5.2.1f1, Oculus Utilities v0.1.0, OVRPlugin v0.1.2.0.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+
+Unloading 275 unused Assets to reduce memory usage. Loaded Objects now: 689.
+Total: 1.279967 ms (FindLiveObjects: 0.127868 ms CreateObjectMapping: 0.103492 ms MarkObjects: 0.879683 ms  DeleteObjects: 0.167640 ms)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.605411 ms
+Unity v5.2.1f1, Oculus Utilities v0.1.0, OVRPlugin v0.1.2.0.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+
+Unloading 23 unused Assets to reduce memory usage. Loaded Objects now: 520.
+Total: 1.426652 ms (FindLiveObjects: 0.088951 ms CreateObjectMapping: 0.064575 ms MarkObjects: 1.191870 ms  DeleteObjects: 0.079115 ms)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 2.829784 ms
+Unity v5.2.1f1, Oculus Utilities v0.1.0, OVRPlugin v0.1.2.0.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+
+Unloading 83 unused Assets to reduce memory usage. Loaded Objects now: 692.
+Total: 1.165783 ms (FindLiveObjects: 0.103064 ms CreateObjectMapping: 0.087241 ms MarkObjects: 0.883960 ms  DeleteObjects: 0.089807 ms)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.507479 ms
+Unity v5.2.1f1, Oculus Utilities v0.1.0, OVRPlugin v0.1.2.0.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+
+Unloading 23 unused Assets to reduce memory usage. Loaded Objects now: 555.
+Total: 1.486951 ms (FindLiveObjects: 0.092373 ms CreateObjectMapping: 0.064148 ms MarkObjects: 1.253452 ms  DeleteObjects: 0.074839 ms)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 2.618095 ms
+Unity v5.2.1f1, Oculus Utilities v0.1.0, OVRPlugin v0.1.2.0.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+
+Unloading 93 unused Assets to reduce memory usage. Loaded Objects now: 695.
+Total: 1.255591 ms (FindLiveObjects: 0.115466 ms CreateObjectMapping: 0.090662 ms MarkObjects: 0.944259 ms  DeleteObjects: 0.103919 ms)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.589588 ms
+Unity v5.2.1f1, Oculus Utilities v0.1.0, OVRPlugin v0.1.2.0.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+
+Unloading 23 unused Assets to reduce memory usage. Loaded Objects now: 1221.
+Total: 1.829502 ms (FindLiveObjects: 0.168923 ms CreateObjectMapping: 0.087241 ms MarkObjects: 1.486951 ms  DeleteObjects: 0.085103 ms)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 4.555366 ms
+Unity v5.2.1f1, Oculus Utilities v0.1.0, OVRPlugin v0.1.2.0.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+
+Unloading 156 unused Assets to reduce memory usage. Loaded Objects now: 698.
+Total: 1.401420 ms (FindLiveObjects: 0.146685 ms CreateObjectMapping: 0.096222 ms MarkObjects: 1.025085 ms  DeleteObjects: 0.131717 ms)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.731569 ms
+Unity v5.2.1f1, Oculus Utilities v0.1.0, OVRPlugin v0.1.2.0.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+
+Unloading 23 unused Assets to reduce memory usage. Loaded Objects now: 1224.
+Total: 1.809402 ms (FindLiveObjects: 0.153955 ms CreateObjectMapping: 0.088096 ms MarkObjects: 1.482247 ms  DeleteObjects: 0.083392 ms)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 4.617803 ms
+Unity v5.2.1f1, Oculus Utilities v0.1.0, OVRPlugin v0.1.2.0.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+
+Unloading 156 unused Assets to reduce memory usage. Loaded Objects now: 701.
+Total: 1.495932 ms (FindLiveObjects: 0.126157 ms CreateObjectMapping: 0.097077 ms MarkObjects: 1.133709 ms  DeleteObjects: 0.136849 ms)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.533993 ms
+Unity v5.2.1f1, Oculus Utilities v0.1.0, OVRPlugin v0.1.2.0.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+
+Unloading 23 unused Assets to reduce memory usage. Loaded Objects now: 4565.
+Total: 3.007687 ms (FindLiveObjects: 0.587168 ms CreateObjectMapping: 0.260868 ms MarkObjects: 2.049743 ms  DeleteObjects: 0.107341 ms)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 11.438024 ms
+Unity v5.2.1f1, Oculus Utilities v0.1.0, OVRPlugin v0.1.2.0.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+
+Unloading 275 unused Assets to reduce memory usage. Loaded Objects now: 704.
+Total: 1.648604 ms (FindLiveObjects: 0.168495 ms CreateObjectMapping: 0.108624 ms MarkObjects: 1.173909 ms  DeleteObjects: 0.195865 ms)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.543401 ms
+Unity v5.2.1f1, Oculus Utilities v0.1.0, OVRPlugin v0.1.2.0.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+
+Unloading 23 unused Assets to reduce memory usage. Loaded Objects now: 577.
+Total: 1.601562 ms (FindLiveObjects: 0.089379 ms CreateObjectMapping: 0.056877 ms MarkObjects: 1.375334 ms  DeleteObjects: 0.077832 ms)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 2.568060 ms
+Unity v5.2.1f1, Oculus Utilities v0.1.0, OVRPlugin v0.1.2.0.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+
+Unloading 83 unused Assets to reduce memory usage. Loaded Objects now: 707.
+Total: 1.304771 ms (FindLiveObjects: 0.100498 ms CreateObjectMapping: 0.087241 ms MarkObjects: 1.028506 ms  DeleteObjects: 0.087241 ms)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.524157 ms
+Unity v5.2.1f1, Oculus Utilities v0.1.0, OVRPlugin v0.1.2.0.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+
+Unloading 24 unused Assets to reduce memory usage. Loaded Objects now: 612.
+Total: 1.681961 ms (FindLiveObjects: 0.094511 ms CreateObjectMapping: 0.057305 ms MarkObjects: 1.451884 ms  DeleteObjects: 0.076122 ms)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 3.382740 ms
+Unity v5.2.1f1, Oculus Utilities v0.1.0, OVRPlugin v0.1.2.0.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+
+Unloading 133 unused Assets to reduce memory usage. Loaded Objects now: 710.
+Total: 1.435205 ms (FindLiveObjects: 0.107341 ms CreateObjectMapping: 0.096222 ms MarkObjects: 1.113182 ms  DeleteObjects: 0.117177 ms)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.616530 ms
+Unity v5.2.1f1, Oculus Utilities v0.1.0, OVRPlugin v0.1.2.0.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+
+Unloading 25 unused Assets to reduce memory usage. Loaded Objects now: 541.
+Total: 1.690942 ms (FindLiveObjects: 0.090234 ms CreateObjectMapping: 0.065858 ms MarkObjects: 1.439054 ms  DeleteObjects: 0.093656 ms)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.770485 ms
+Unity v5.2.1f1, Oculus Utilities v0.1.0, OVRPlugin v0.1.2.0.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 541.
+Total: 1.587022 ms (FindLiveObjects: 0.088951 ms CreateObjectMapping: 0.056450 ms MarkObjects: 1.416388 ms  DeleteObjects: 0.022665 ms)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 6.730840 ms
+Unity v5.2.1f1, Oculus Utilities v0.1.0, OVRPlugin v0.1.2.0.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+
+Unloading 333 unused Assets to reduce memory usage. Loaded Objects now: 713.
+Total: 1.784170 ms (FindLiveObjects: 0.156948 ms CreateObjectMapping: 0.163791 ms MarkObjects: 1.241478 ms  DeleteObjects: 0.218958 ms)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.496787 ms
+Unity v5.2.1f1, Oculus Utilities v0.1.0, OVRPlugin v0.1.2.0.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+
+Unloading 26 unused Assets to reduce memory usage. Loaded Objects now: 4577.
+Total: 3.188157 ms (FindLiveObjects: 0.549534 ms CreateObjectMapping: 0.240341 ms MarkObjects: 2.297355 ms  DeleteObjects: 0.098787 ms)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 12.082497 ms
+Unity v5.2.1f1, Oculus Utilities v0.1.0, OVRPlugin v0.1.2.0.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+
+Unloading 275 unused Assets to reduce memory usage. Loaded Objects now: 716.
+Total: 1.634919 ms (FindLiveObjects: 0.136421 ms CreateObjectMapping: 0.104775 ms MarkObjects: 1.207266 ms  DeleteObjects: 0.185174 ms)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.498498 ms
+Unity v5.2.1f1, Oculus Utilities v0.1.0, OVRPlugin v0.1.2.0.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+
+Unloading 27 unused Assets to reduce memory usage. Loaded Objects now: 547.
+Total: 1.812396 ms (FindLiveObjects: 0.090662 ms CreateObjectMapping: 0.057733 ms MarkObjects: 1.585739 ms  DeleteObjects: 0.075694 ms)
+

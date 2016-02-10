@@ -1,0 +1,4 @@
+Move: Control stick / WASD
+Jump: B Button / F key
+Run: Left Trigger / Shift
+Select: A Button / Left click
